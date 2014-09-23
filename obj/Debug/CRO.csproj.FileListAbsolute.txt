@@ -1,0 +1,39 @@
+C:\Users\Tokugawa-san\Documents\Visual Studio 2008\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Tokugawa-san\Documents\Visual Studio 2008\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\CRO.csproj.GenerateResource.Cache
+C:\Users\Tokugawa-san\Documents\Visual Studio 2008\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\CRO.Form1.resources
+C:\Users\Tokugawa-san\Documents\Visual Studio 2008\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\CRO.Properties.Resources.resources
+C:\Users\Tokugawa-san\Documents\Visual Studio 2008\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\CRO.AboutBox1.resources
+C:\Users\Tokugawa-san\Documents\Visual Studio 2008\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\CRO Downloader.exe.config
+C:\Users\Tokugawa-san\Documents\Visual Studio 2008\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\CRO Downloader.exe
+C:\Users\Tokugawa-san\Documents\Visual Studio 2008\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\CRO Downloader.pdb
+C:\Users\Tokugawa-san\Documents\Visual Studio 2008\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\CRO Downloader.exe
+C:\Users\Tokugawa-san\Documents\Visual Studio 2008\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\CRO Downloader.pdb
+C:\Users\Tokugawa-san\Documents\Visual Studio 2008\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\CRO Downloader.XML
+C:\Users\Tokugawa-san\Documents\Visual Studio 2008\Projects\CRO Downloader\CRO_Downloader\bin\Debug\CRO Downloader.exe.config
+C:\Users\Tokugawa-san\Documents\Visual Studio 2008\Projects\CRO Downloader\CRO_Downloader\bin\Debug\CRO Downloader.XML
+C:\Users\Tokugawa-san\Documents\Visual Studio 2008\Projects\CRO Downloader\CRO_Downloader\obj\Debug\CRO Downloader.exe
+C:\Users\Tokugawa-san\Documents\Visual Studio 2008\Projects\CRO Downloader\CRO_Downloader\obj\Debug\CRO Downloader.pdb
+C:\Users\Shogun-san\Desktop\CRO_Downloader\bin\Debug\CRO Downloader.exe.config
+C:\Users\Shogun-san\Desktop\CRO_Downloader\obj\Debug\CRO Downloader.exe
+C:\Users\Shogun-san\Desktop\CRO_Downloader\obj\Debug\CRO Downloader.pdb
+C:\Users\Shogun-san\Desktop\CRO_Downloader\bin\Debug\CRO Downloader.exe
+C:\Users\Shogun-san\Desktop\CRO_Downloader\bin\Debug\CRO Downloader.pdb
+C:\Users\Shogun-san\Desktop\CRO_Downloader\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Shogun-san\Desktop\CRO_Downloader\obj\Debug\CRO.AboutBox1.resources
+C:\Users\Shogun-san\Desktop\CRO_Downloader\obj\Debug\CRO.Form1.resources
+C:\Users\Shogun-san\Desktop\CRO_Downloader\obj\Debug\CRO.Properties.Resources.resources
+C:\Users\Shogun-san\Desktop\CRO_Downloader\obj\Debug\CRO.csproj.GenerateResource.Cache
+C:\Users\Shogun-san\Desktop\Projects\CRO_Downloader\bin\Debug\CRO Downloader.exe.config
+C:\Users\Shogun-san\Desktop\Projects\CRO_Downloader\obj\Debug\CRO Downloader.exe
+C:\Users\Shogun-san\Desktop\Projects\CRO_Downloader\obj\Debug\CRO Downloader.pdb
+C:\Users\Shogun-san\Desktop\Projects\CRO_Downloader\bin\Debug\CRO Downloader.exe
+C:\Users\Shogun-san\Desktop\Projects\CRO_Downloader\bin\Debug\CRO Downloader.pdb
+C:\Users\Shogun-san\Desktop\Projects\CRO_Downloader\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Shogun-san\Desktop\Projects\CRO_Downloader\obj\Debug\CRO.AboutBox1.resources
+C:\Users\Shogun-san\Desktop\Projects\CRO_Downloader\obj\Debug\CRO.Form1.resources
+C:\Users\Shogun-san\Desktop\Projects\CRO_Downloader\obj\Debug\CRO.Properties.Resources.resources
+C:\Users\Shogun-san\Desktop\Projects\CRO_Downloader\obj\Debug\CRO.csproj.GenerateResource.Cache
+C:\Users\Shogun-san\Desktop\Projects\CRO_Downloader\bin\Debug\CRO Downloader.exe.manifest
+C:\Users\Shogun-san\Desktop\Projects\CRO_Downloader\bin\Debug\CRO Downloader.application
+C:\Users\Shogun-san\Desktop\Projects\CRO_Downloader\obj\Debug\CRO Downloader.exe.manifest
+C:\Users\Shogun-san\Desktop\Projects\CRO_Downloader\obj\Debug\CRO Downloader.application
